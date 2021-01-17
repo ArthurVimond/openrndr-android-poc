@@ -1,3 +1,4 @@
 include ':app'
+include ':openrndr-core'
 include ':openrndr-android'
 rootProject.name = "openrndr-android-poc"
